@@ -1,4 +1,4 @@
-# progfol
+# portfolio code
 
 ## Project setup
 ```
