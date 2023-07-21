@@ -14,9 +14,9 @@
     </div>
   </div>
 
-  <div :class="opening ? 'block' : 'hidden' " class="px-1 pt-1 pb-4 md:flex md:p-0">
-    <router-link class="block px-1 py-1 text-white font-semibold rounded hover:bg-gray-800" to="/">Présentation</router-link> 
-    <router-link class="mb-0 pb-0 mt-1 block px-1 py-1 text-white font-semibold rounded hover:bg-gray-800 md:mt-0 md:ml-2" to="/projets">Projets</router-link>
+  <div :class="opening ? 'block' : 'hidden' " class="px-1 pt-1 pb-3 md:flex md:p-0">
+    <router-link class="block" to="/"><span class="mx-1 px-1 py-1 text-white font-semibold rounded hover:bg-gray-600"> Présentation </span></router-link> 
+    <router-link class="block mt-3 md:mt-0" to="/projets"><span class="mx-1 px-1 py-1 text-white font-semibold rounded hover:bg-gray-600"> Projets </span></router-link>
   </div>
   
 
