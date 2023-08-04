@@ -15,7 +15,7 @@
   </div>
 
   <div :class="opening ? 'block' : 'hidden' " class="px-1 pt-1 pb-3 md:flex md:p-0">
-    <router-link class="block" to="/"><span class="mx-1 px-1 py-1 text-white font-semibold rounded hover:bg-gray-600"> Présentation </span></router-link> 
+    <router-link class="block" to="/"><span class="mx-1 px-1 py-1 text-white font-semibold rounded hover:bg-gray-600"> Présentations </span></router-link> 
     <router-link class="block mt-3 md:mt-0" to="/projets"><span class="mx-1 px-1 py-1 text-white font-semibold rounded hover:bg-gray-600"> Projets </span></router-link>
   </div>
   
