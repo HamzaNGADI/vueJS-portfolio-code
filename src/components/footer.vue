@@ -11,7 +11,7 @@
 
     <div class="pt-4 ">
 
-      <a href="https://github.com/HamzaNGADI?tab=repositories" class="pr-5 text-3xl md:text-4xl text-white cursor-pointer hover:text-blue-400 focus:text-blue-400 focus:outline-none">
+      <a href="https://github.com/HamzaNGADI?tab=repositories" class="mr-5 text-3xl md:text-4xl text-white cursor-pointer hover:text-blue-400 focus:text-blue-400 focus:outline-none">
         <fa :icon="['fab', 'github']"/>
       </a>
       <a href="https://www.linkedin.com/in/hamzangadi" class="text-3xl md:text-4xl text-white cursor-pointer hover:text-blue-400 focus:text-blue-400 focus:outline-none">
