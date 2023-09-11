@@ -11,7 +11,7 @@
     </div>
       <h2 class="text-3xl font-serif font-extrabold py-7 pb-5 px-5 ">Présentation des projets</h2>
 			<p class="py-1 px-2 w-5/6 md:w-4/5 text-lg font-semibold leading-loose">
-        Les projets développés varient entre des programmes desktop, des sites web dynamiques, des prototypes de jeux ou des simulations dans un environnement virtuel.<br />
+        Les projets développés varient entre des programmes desktop, des sites web dynamiques, ainsi que des prototypes de jeux et simulations dans un environnement virtuel.<br />
 									Ces projets, présents dans l'onglet "Projets", sont développés avec divers langages de programmation, frameworks, APIs et bibliothèques qui les distinguent, ciblant plus d’autonomie en apprentissage des nouvelles technologies.  </p>
 				<br/><div class="mx-4"><img :src="img" /></div> 		
     </div>
