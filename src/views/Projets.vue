@@ -53,7 +53,7 @@ import Footer from '../components/footer.vue'
 import unityp from "../assets/unity.png"
 import ecore from "../assets/ecore.png"
 import javap from "../assets/javapic.png"
-import mazy from "../assets/mzy.jpeg"
+import mazy from "../assets/mzy.png"
 import webavi from "../assets/webav.jpeg"
 import bnk from "../assets/banklab.jpeg"
 
