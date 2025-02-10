@@ -56,12 +56,32 @@ import javap from "../assets/javapic.png"
 import mazy from "../assets/mzy.png"
 import webavi from "../assets/webav.jpeg"
 import bnk from "../assets/banklab.jpeg"
+import dt from "../assets/dt.png"
+import ml from "../assets/ml.png"
 
 export default {
 name: 'Projets',
   data(){
     return{
       datapr: [
+        { title: 'Projets de réseaux de neurones - IA',  
+               titlee:'Python - Jupyter Notebook',
+                img: ml, 
+                textc: "Les modèles développés d’IA et de réseaux de neurones, dédiés aux jumeaux numériques de trafic routier, parcourent les possibilités de construction de modèles adaptés à l’apprentissage du fonctionnement et raisonnement, à partir d’un algorithme existant, pour but de classifier et prédire les points bordures, dans une zone géographique ciblée.",
+                textcc: "Les frameworks Tensorflow et Pytorch, sont utilisés pour la construction des deux types de réseaux de neurones, séquentielle (ANN) et de graphes (GNN). Les versions fédérées de ces modèles, dédiées à l’outil CupCarbon, sont implémentées à l’aide du framework Flower.", 
+                textcci: "",
+                lien: 'https://github.com/NgadiUniv/PhdHN/tree/main/mod%C3%A9ls%20IA_ML',
+                titrelien:'Accès aux projets' 
+              },
+            { title: 'Jumeaux numériques de voitures', 
+               titlee:'Java - Sumo',
+                img: dt, 
+                textc: "Les projets de construction des jumeaux numériques, de voitures pour les trafics routiers, sont développés et implémentés en langage Java, utilisant le simulateur Sumo pour la collection des données des voitures simulées.",
+                textcc: "L’outil CupCarbon est utilisé pour la visualisation des jumeaux numériques, ainsi qu’un programme implémenté en JavaScript, dédié à la visualisation des jumeaux de voitures, sous une carte géographique, avec les données d’enveloppes polygonales calculées, transmises via le protocole MQTT.", 
+                textcci: "",
+                lien: 'https://github.com/NgadiUniv/PhdHN/tree/main/Java%20Projets/SumoLPCN',
+                titrelien:'Accès au projet' 
+              },
               { title: 'Projets Unity', 
                titlee:'',
                 img: unityp, 
